@@ -2,9 +2,9 @@
 ## 詳細
 - ポートフォリオサイト  
 [https://araowork.com/dice_android](https://araowork.com/dice_android)  
-- javaファイルのコード  
+- javaのコード  
 [MainActivity.java](https://github.com/arao0629/dice/blob/main/MainActivity.java)
-- xmlファイルのコード  
+- xmlのコード  
 [activity_main.xml](https://github.com/arao0629/dice/blob/main/activity_main.xml)
 
 ## アプリケーション名  
